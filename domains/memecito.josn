@@ -1,0 +1,10 @@
+{
+	"description": "website for memecito.is-a.dev",
+	"repo": "https://github.com/memecito",
+	"owner": {
+	"username": "memecito"
+	},
+	"record":{
+		"CNAME":"memecito.github.io"
+		}
+}
